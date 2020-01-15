@@ -14,30 +14,9 @@
             "value": "en"
         }
     ],
-    "preferred_langcode": [
-        {
-            "value": "en"
-        }
-    ],
-    "preferred_admin_langcode": [],
     "name": [
         {
             "value": "admin"
-        }
-    ],
-    "mail": [
-        {
-            "value": "admin@example.com"
-        }
-    ],
-    "timezone": [
-        {
-            "value": "UTC"
-        }
-    ],
-    "status": [
-        {
-            "value": true
         }
     ],
     "created": [
@@ -48,20 +27,14 @@
     ],
     "changed": [
         {
-            "value": "2018-08-04T03:44:32+00:00",
+            "value": "2020-01-15T20:18:12+00:00",
             "format": "Y-m-d\\TH:i:sP"
-        }
-    ],
-    "roles": [
-        {
-            "target_id": "administrator",
-            "target_type": "user_role",
-            "target_uuid": "d97d5a64-6904-4607-b161-555f152f5bb8"
         }
     ],
     "default_langcode": [
         {
             "value": true
         }
-    ]
+    ],
+    "user_picture": []
 }
